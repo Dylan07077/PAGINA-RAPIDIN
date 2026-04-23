@@ -1,0 +1,12 @@
+.carousel-fixed-height {
+    height: 450px;
+}
+
+.carousel-fixed-height .carousel-item,
+.carousel-fixed-height .carousel-item img {
+    height: 450px;
+}
+
+.carousel-fixed-height .carousel-item img {
+    object-fit: contain;
+}

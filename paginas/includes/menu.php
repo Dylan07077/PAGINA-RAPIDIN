@@ -4,7 +4,7 @@
         <img src="<?= $ruta?>/img/MaquimPower_Logotipo.png" alt="Logo" class="img-fluid" style="max-height: 30px;">
     </a>
 
-    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
 
